@@ -1,8 +1,8 @@
 Will be uploading this tomorow
 
-Pretty unfinished due me quiting developing this, feel free to push a pr.
+⚠️Pretty unfinished due me quiting developing this, feel free to push a pr.
 
-Warning this comes with an pretty basic front-end with no css!
+⚠️Warning this comes with an pretty basic front-end with no css!
 
 This thing features
 - Storing all data in MySQL
