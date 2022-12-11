@@ -17,4 +17,4 @@ This thing features
 - A json api to display info about the user who is trying to authenticate (UID, Username, HWID)
 - Set HWID option in panel
 - Ban & Temp ban system
--
+- Discord integration (generate invites, discord server linking)
